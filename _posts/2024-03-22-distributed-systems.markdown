@@ -6,5 +6,5 @@ TODO
 ### 有哪些手段 又会有什么问题
 TODO
 ### 参考
-[1]https://pdos.csail.mit.edu/6.824/
+[1]https://pdos.csail.mit.edu/6.824/  
 [2]《援助的死亡》
